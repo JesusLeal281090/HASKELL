@@ -1,5 +1,6 @@
 ### ejemplo listas ordenadas
 1. Lunes
+ 1. sub lunes
 2. Martes
 3. Miercoles
 4. Jueves
@@ -13,5 +14,6 @@
  * Sub-Lunes
  * Sub-Lunes
  * Sub-Lunes
+  * Sub-sub-Lunes
 * Martes
 * Miercoles
